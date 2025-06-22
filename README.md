@@ -11,7 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 
 ## Overview
-
+Work time: ~1,5h
 ### The challenge
 
 Users should be able to:
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [SocialLinks](https://xmelaa.github.io/Social-Links-Page/)
 
 ## My process
 
