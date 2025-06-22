@@ -17,6 +17,7 @@ Work time: ~1,5h
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
+You can go to my other social profiles (except Twitter/X) :)
 
 ### Screenshot
 
